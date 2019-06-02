@@ -1,3 +1,3 @@
-# Online Messaging App Using FirbaseCloudMessaging
+# Online Messaging App
 
 This an online messaging app made using FirbaseCloudMessage.
